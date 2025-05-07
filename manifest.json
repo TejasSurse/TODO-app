@@ -11,7 +11,7 @@
     ],
     "theme_color" : "#000000",
     "background_color" : "#ffffff",
-    "start_url" : "/",
+    "start_url" : "/TODO-app/",
     "display" : "standalone",
     "orientation" : "portrait"
 
